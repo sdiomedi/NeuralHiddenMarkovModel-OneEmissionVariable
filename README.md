@@ -4,6 +4,7 @@
 This repository contains a MATLAB implementation of the Hidden Markov Model (HMM) used in Diomedi et al. (2021), Diomedi et al. (2022) and Vaccari et al. (2024) for analyzing spiking neural data.
 
 ## Table of Contents
+- [Citation](#citation)
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,7 +12,7 @@ This repository contains a MATLAB implementation of the Hidden Markov Model (HMM
 - [Contributing](#contributing)
 - [License](#license)
 
-## CITATION
+## Citation
 
 If you use this repo, please cite the following works:
 
