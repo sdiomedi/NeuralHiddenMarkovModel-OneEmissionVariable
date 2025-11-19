@@ -1,7 +1,7 @@
 # NeuralHiddenMarkovModel-OneEmissionVariable
 
 ## Overview
-This repository contains a MATLAB implementation of the Hidden Markov Model (HMM) used in Diomedi et al. (2021) for analyzing spiking neural data.
+This repository contains a MATLAB implementation of the Hidden Markov Model (HMM) used in Diomedi et al. (2021), Diomedi et al. (2022) and Vaccari et al. (2024) for analyzing spiking neural data.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,6 +10,16 @@ This repository contains a MATLAB implementation of the Hidden Markov Model (HMM
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Introduction
+
+If you use this repo, please cite the following works:
+
+Vaccari, F. E., Diomedi, S., De Vitis, M., Filippini, M., & Fattori, P. (2024). Similar neural states, but dissimilar decoding patterns for motor control in parietal cortex. Network Neuroscience, 8(2), 486–516.
+
+Diomedi, S., Vaccari, F. E., Hadjidimitrakis, K., & Fattori, P. (2022). Using HMM to Model Neural Dynamics and Decode Useful Signals for Neuroprosthetic Control. In N. Bouguila, W. Fan, & M. Amayri (A c. Di), Hidden Markov Models and Applications (pp. 59–79). Springer International Publishing.
+
+Diomedi, S., Vaccari, F. E., Galletti, C., Hadjidimitrakis, K., & Fattori, P. (2021). Motor-like neural dynamics in two parietal areas during arm reaching. Progress in Neurobiology, 205, 102116.
 
 ## Introduction
 This project implements an HMM to model and analyze spiking neural data, focusing on a single emission variable. The approach is based on the methods detailed in Diomedi et al. (2021).
