@@ -11,7 +11,7 @@ This repository contains a MATLAB implementation of the Hidden Markov Model (HMM
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## CITATION
 
 If you use this repo, please cite the following works:
 
